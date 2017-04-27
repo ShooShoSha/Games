@@ -4,7 +4,7 @@ This is a library of game logic for various types of games.
 
 ## Getting Started
 
-In order to run this application, it is recommended to have [Visual Studio](https://www.visualstudio.com/downloads/) (tested using 2015 Community) and [Git](https://git-scm.com/downloads) (tested using version 2.12.2.windows.2). Additionally, Git commands will be executed in Git Bash. The instructions will work under these assumptions and were tested using Windows 10.
+In order to run this application, it is recommended to have [Visual Studio](https://www.visualstudio.com/downloads/) (tested using 2015 Community with .NET 4.5.2) and [Git](https://git-scm.com/downloads) (tested using version 2.12.2.windows.2). Additionally, Git commands will be executed in Git Bash. The instructions will work under these assumptions and were tested using Windows 10.
 
 1. Navigate to a working directory
 1. Clone the repository to local machine using `git clone https://github.com/ShooShoSha/Games.git`
