@@ -1,18 +1,15 @@
-﻿// <copyright file="AssemblyInfo.cs" company="ShooShoSha">
-// Copyright (c) 2017 Kevin "ShooShoSha" O'Brien
-// </copyright>
-using System.Reflection;
+﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Games")]
+[assembly: AssemblyTitle("GamesTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Games")]
+[assembly: AssemblyProduct("GamesTests")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -23,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ea74f65c-6259-4af1-934c-eedb802b36bc")]
+[assembly: Guid("3a6bd3b7-3c97-41f1-8d75-9978d0e8eb2c")]
 
 // Version information for an assembly consists of the following four values:
 //
