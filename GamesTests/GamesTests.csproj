@@ -54,6 +54,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Cards\CardSuitTests.cs" />
+    <Compile Include="Cards\CardValueTests.cs" />
     <Compile Include="Cards\PlayingCardDeckTests.cs" />
     <Compile Include="Cards\PlayingCardTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
